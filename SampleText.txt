@@ -1,0 +1,101 @@
+SOCCER GAME SETUP!
+Player 1: Player Nora
+Player 2: Player Jill
+Field: [0.0, 0.0]500.0,400.0
+Ball is at (100.0, 100.0)
+
+Ball is reflected
+Player Nora kicks the ball for a distance of 736.8373848515178 pixels at 92.68086922030382 degrees
+Ball is at (65.53596124768174, 100.0)
+
+
+Ball is reflected back to original position
+Player Jill kicks the ball for a distance of 937.8568770636531 pixels at 198.1303838368702 degrees
+Ball is at (65.53596124768174, 100.0)
+
+
+Player Nora kicks the ball for a distance of 67.7379669435727 pixels at 121.8729283173089 degrees
+Ball is at (29.76779856649444, 157.52452263218416)
+
+
+Ball is reflected back to original position
+Player Jill kicks the ball for a distance of 789.4028006902046 pixels at 267.18569777266816 degrees
+Ball is at (29.76779856649444, 157.52452263218416)
+
+
+Ball is reflected
+Player Nora kicks the ball for a distance of 785.5377960050554 pixels at 91.07354394464345 degrees
+Ball is at (15.050135089167636, 157.52452263218416)
+
+
+Ball is reflected
+Player Jill kicks the ball for a distance of 88.66279653853549 pixels at 168.43313794370465 degrees
+Ball is at (15.050135089167636, 175.3024182695439)
+
+
+Ball is reflected
+Player Nora kicks the ball for a distance of 89.0456676367466 pixels at 134.9331386938855 degrees
+Ball is at (15.050135089167636, 238.34064756610064)
+
+
+Player Jill kicks the ball for a distance of 436.34778708090715 pixels at 9.06380344482737 degrees
+Ball is at (445.9494768340576, 307.0803637004086)
+
+
+Ball is reflected
+Player Nora kicks the ball for a distance of 525.4990884759203 pixels at 97.70370228970461 degrees
+Ball is at (375.5062086012222, 307.0803637004086)
+
+
+Ball is reflected back to original position
+Player Jill kicks the ball for a distance of 918.4986403665333 pixels at 122.58859701136356 degrees
+Ball is at (375.5062086012222, 307.0803637004086)
+
+
+Ball is reflected back to original position
+Player Nora kicks the ball for a distance of 621.3462131107202 pixels at 152.91168619304298 degrees
+Ball is at (375.5062086012222, 307.0803637004086)
+
+
+Ball is reflected back to original position
+Player Jill kicks the ball for a distance of 594.480478847479 pixels at 58.225317246609734 degrees
+Ball is at (375.5062086012222, 307.0803637004086)
+
+
+Ball is reflected
+Player Nora kicks the ball for a distance of 726.9110843668069 pixels at 342.76477023786094 degrees
+Ball is at (375.5062086012222, 91.69997411462217)
+
+
+Player Jill kicks the ball for a distance of 15.28211162703963 pixels at 4.815184817156588 degrees
+Ball is at (390.7343842698243, 92.9827841502452)
+
+
+Ball is reflected
+Player Nora kicks the ball for a distance of 141.62338975053535 pixels at 10.955932501504599 degrees
+Ball is at (390.7343842698243, 119.89886836371983)
+
+
+Ball is reflected
+Player Jill kicks the ball for a distance of 585.3832996220815 pixels at 93.7329755375739 degrees
+Ball is at (352.6220506020179, 119.89886836371983)
+
+
+Ball is reflected back to original position
+Player Nora kicks the ball for a distance of 899.9696550336374 pixels at 51.94209476888274 degrees
+Ball is at (352.6220506020179, 119.89886836371983)
+
+
+Ball is reflected
+Player Jill kicks the ball for a distance of 660.5542168567832 pixels at 155.29384726485117 degrees
+Ball is at (352.6220506020179, 395.98716851777044)
+
+
+Ball is reflected
+Player Nora kicks the ball for a distance of 693.0507118652561 pixels at 260.4389742741971 degrees
+Ball is at (237.50771021638917, 395.98716851777044)
+
+
+Ball is reflected
+Player Jill kicks the ball for a distance of 634.3035369414137 pixels at 104.44918288402418 degrees
+Ball is at (79.23551124228925, 395.98716851777044)
